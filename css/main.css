@@ -1,0 +1,82 @@
+.header {
+}
+.container {
+  width:  920px;
+  display: flex;
+  margin: 0 auto;
+}
+.box {
+  width: 307px;
+  padding: 48px;
+  border-radius: 8px;
+}
+.first-box {
+  background-color: #E28625
+}
+.sekond-box {
+  background-color: #006971;
+}
+.thirt-box {
+  background-color: #004140;
+}
+.box-img {
+}
+.title {
+  font-family: 'Big Shoulders Display';
+  font-weight: 700;
+  margin-top: 35px;
+  margin-bottom: 25px;
+  font-size: 40px;
+  line-height: 48px;
+  text-transform: uppercase;
+  color: #F2F2F2;
+}
+.box-text {
+  font-family: 'Lexend Deca';
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  margin-bottom: 83px;
+  color: #FFFFFF;
+  opacity: 0.75;
+}
+.button{
+  font-family: 'Lexend Deca';
+  font-weight: 400;
+  padding: 11px 31.5px 11px;
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 25px;
+  background: #F2F2F2;
+  border-radius: 25px;
+}
+.button:hover
+{
+  border: 2px solid #FFFFFF;
+  color: #FFFFFF;
+  border-radius: 25px;
+}
+.first-button
+{
+  color: #E28625;
+}
+.first-button:hover
+{
+  background-color: #E28625;
+}
+.sekond-button
+{
+  color: #006971;
+}
+.sekond-button:hover
+{
+  background-color: #006971;
+}
+.thirt-button
+{
+  color: #004140;
+}
+.thirt-button:hover
+{
+  background-color: #004140;
+}
